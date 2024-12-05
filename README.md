@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on facebook
 - 📫 How to reach me ig: @felipjahmozart
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: A cloud weighs around a million tonnes.
+- ⚡ Fun fact: antukin mo na lang
 
 <!---
 MochisCold/MochisCold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <html>
 <head>
 <p> wutda </p>
+<p> Ling Ling 40 hours </p>
 </head>
 
 <body>
