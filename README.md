@@ -1,10 +1,10 @@
-- 👋 Hi, I’m 🐧 Mozart 🐧
+- 👋 Hi, I’m 🐧 @Mozart 🐧
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on facebook
+- 💞️ I’m looking to collaborate on any platform that will help me learn
 - 📫 How to reach me ig: @felipjahmozart
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: antukin mo na lang
+- ⚡ Fun fact: It’s impossible to hum while holding your nose.
 
 <!---
 MochisCold/MochisCold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
