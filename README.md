@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 
 <body>
-    <p> W rizz </p>
+    <p> certified W </p>
 </body>
 
 <footer> 
