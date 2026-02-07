@@ -1,30 +1,44 @@
-- 👋 Hi, I’m 🐧 @Mozart 🐧
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any platform that will help me learn
-- 📫 How to reach me ig: @felipjahmozart
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: It’s impossible to hum while holding your nose.
+# ⛷️ Hey, I’m Mozart ❄️♟️🎵  
+*(a.k.a. @MochisCold)*
 
-<!---
-MochisCold/MochisCold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!DOCTYPE> 
-<html>
-<head>
-<p> wutda </p>
-<p> Ling Ling 40 hours </p>
-</head>
+Welcome to my GitHub slope — where **code, chess, and music** carve clean lines downhill.
 
-<body>
-    <p> certified W </p>
-</body>
+---
 
-<footer> 
-    <p> That's crazy </p>
-</footer>
+## 🏔️ About Me
+- 👋 Hi! I’m **Mozart**
+- 🎿 I live life like downhill skiing: **focus, momentum, and clean execution**
+- 👀 Interested in **Programming, Problem-Solving, and Creative Tech**
+- 🌱 Currently learning:
+  - ☕ **Java**
+  - 🟦 **C#**
+  - ⚙️ **C++**
+- 💞️ Open to collaborating on **learning-focused projects**, beginner to intermediate
+- 😄 Pronouns: **He / Him**
 
+---
 
+## ♟️ Chess Mindset
+I approach programming like chess:
+- ♜ **Position over speed**
+- ♞ **Think 3–5 moves ahead**
+- ♛ **Simple ideas, executed cleanly**
+- ♚ Blunders are just lessons with better branding
 
-</html>
+If it improves logic, strategy, or pattern recognition—I’m in.
+
+---
+
+## 🎵 Music & Creative Flow
+- 🎹 Multi-instrumentalist mindset
+- 🎻 Music taught me **discipline, timing, and structure**
+- 🎧 I love mixing **creativity with engineering**
+- 🎼 Code, like music, should **flow**, not fight back
+
+---
+
+## 💻 Tech Stack (Learning Mode)
+```text
+Languages:   Java | C# | C++
+Concepts:    OOP | Logic | Algorithms | Clean Code
+Tools:       Git | GitHub | IDEs | Debuggers
