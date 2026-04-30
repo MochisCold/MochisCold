@@ -1,6 +1,6 @@
-# 🎿 Alyson 
+# 🎿 Mochiscold Certfied W
 
-### *Software Engineer · Systems Architect · The Winter Bringer*
+### *Software Engineer · Systems Architect · Wintech*
 
 ---
 
@@ -20,7 +20,7 @@ By profession: a developer.
 By discipline: an engineer of precision.
 By nature: I operate in environments where **latency approaches zero**.
 
-* 🎻 Concert Violinist (precision & timing mindset)
+* 🎻 Concert Soloist (precision & timing mindset)
 * 🎿 Elite Alpine Skier Athlete (high-speed decision systems)
 * ❄️ Systems thinker with a bias for **efficiency, control, and elegance**
 
