@@ -1,6 +1,6 @@
-# 🎿 Svalbard Invierno Alyson 
+# 🎿 Alyson 
 
-### *Software Engineer · Systems Architect · The Ice Emperor Sovereign*
+### *Software Engineer · Systems Architect · The Winter Bringer*
 
 ---
 
