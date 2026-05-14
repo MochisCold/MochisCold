@@ -1,4 +1,4 @@
-# ☃️ Mochiscold 🎅🏻
+# ☃️⚔️⛷️ Mochiscold 🍦⬜🎅🏻
 
 ### *Software Engineer · Systems Architect · Wintech*
 
