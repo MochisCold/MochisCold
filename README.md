@@ -21,7 +21,7 @@ By discipline: an engineer of precision.
 By nature: I operate in environments where **latency approaches zero**.
 
 * 🎻 Concert Soloist (precision & timing mindset)
-* 🎿 Elite Alpine Skier Athlete (high-speed decision systems)
+* 🎿 Athlete (high-speed decision systems)
 * ❄️ Systems thinker with a bias for **efficiency, control, and elegance**
 
 ---
